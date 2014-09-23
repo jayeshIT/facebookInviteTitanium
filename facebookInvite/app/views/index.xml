@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" id="container">
+		<!-- ------------login Buttins------------ -->
+		<Button class='facebook' id="facebook"/>
+		<!-- ------------logout Buttins------------ -->
+		<Button class='facebook_logout' id="facebook_logout"/>
+	</Window>
+</Alloy>
